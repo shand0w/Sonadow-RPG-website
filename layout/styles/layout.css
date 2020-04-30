@@ -21,6 +21,11 @@ File: Layout CSS
 .row4, .row4 a{}
 .row5{border-top:1px solid;}
 
+.banner-img{
+  max-width: 125px;
+  max-height: 125px;
+  position: inherit;
+}
 
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
